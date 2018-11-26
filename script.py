@@ -12,5 +12,4 @@ def fact(a):
         s = s*i
     return s
 
-# print(factorial(100))
-print(fact(1000))
+print(factorial(100))
