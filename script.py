@@ -13,3 +13,5 @@ def fact(a):
     return s
 
 print(factorial(100))
+
+print(map( lambda x: numpy.sqrt(x), [x**2 for x in range(10)]))
